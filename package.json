@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "RebeccahPortfolio",
-  "homepage": "/rswerdlw.github.io",
+  "homepage": "https://rswerdlw.github.io",
   "version": "0.1.0",
   "scripts": {
     "build": "react-scripts build",
